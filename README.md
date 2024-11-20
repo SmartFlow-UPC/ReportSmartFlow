@@ -2774,7 +2774,7 @@ El Sprint #3 ha sido fundamental para llevar el proyecto SmartFlow a un nuevo ni
 **TF1**<br>
 Con la finalización del Sprint #4 y la entrega exitosa del proyecto SmartFlow, hemos alcanzado un hito significativo en nuestro desarrollo como desarrolladores. Este proyecto, construido con la tecnología C#, nos ha brindado la oportunidad de profundizar nuestros conocimientos en programación orientada a objetos, diseño de interfaces de usuario y arquitectura de software. Además, hemos fortalecido nuestras habilidades en el uso de herramientas y frameworks de desarrollo de .NET. La colaboración en equipo, la resolución de problemas y la adaptación a los cambios constantes han sido fundamentales para el éxito de SmartFlow. Esta experiencia nos ha preparado para enfrentar desafíos más complejos en el futuro y nos ha demostrado el poder de la tecnología C# para crear soluciones innovadoras.
 
-<div id='6.2.'><h3> 6.2.  Video About-the-Team.</h3></div>
+<div id='6.2.'><h3> 6.2. Video About-the-Team.</h3></div>
 
 <table style="font-size: 12px;">
   <tr>
@@ -2798,7 +2798,7 @@ Con la finalización del Sprint #4 y la entrega exitosa del proyecto SmartFlow, 
       Screenshot: <br>
       <img src="./img/aboutTheTeam.png" alt="ATT" style="width: 200px;"><br>
       Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/ERVhIicx8hdFtBjgQZwzZasBItMzXV2CSatLV9Mv7eKEBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RvbMDj">Video Nube
-      </a>
+      </a><br>
       Link (YouTube): <a href="https://youtu.be/YnBrZM47K5A">Video Youtube</a>
     </td>
   </tr>
