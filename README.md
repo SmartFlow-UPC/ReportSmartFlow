@@ -33,7 +33,7 @@ width=30%"/>
 <h5 style="text-align: center">PRODUCTO</h5>
 <p style="text-align: center">SmartFlow</p>
 
-<h5 style="text-align: center">AGOSTO, 2024</h5>
+<h5 style="text-align: center">NOVIEMBRE, 2024</h5>
 </div>
 
 </br>
