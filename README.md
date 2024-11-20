@@ -299,7 +299,7 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
    6.1. [Conclusiones y recomendaciones](#6.1.)<br>
    6.2. [Video About-The-Team](#6.2.)<br>
 8. [**Bibliografía**](#bibliografia)
-9. [**Anexo**](#Anexo)</br>
+9. [**Anexos**](#Anexos)</br>
 &emsp;8.1. [Anexo N°1: Número de clientes finales por sectores](#anexo1)
 </br></br></br>
 
@@ -2831,7 +2831,7 @@ Thiengo, D. (2023). Eficiência energética: Vantagens, aplicação e avaliaçã
  https://blog.squair.io/es/sabes-cu%C3%A1les-los-principales-objetivos-de-la-eficiencia-energ%C3%A9tica-c%C3%B3mo-evaluar-y-aplicar 
 </br>
 
-# 8. Anexo
+# 8. Anexos
 <a name="Anexo"></a>
 ## Anexo N°1: Número de clientes finales por sectores
 <a name="anexo1"></a>
