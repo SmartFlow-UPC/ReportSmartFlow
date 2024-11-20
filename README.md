@@ -2754,7 +2754,8 @@ A continuación, te presentamos el video 'Acerca del producto', donde podrás co
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sección</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Características del video</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sobre el contenido</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Integración y entrega</th></tr></thead>
 <tbody>
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">About The Product</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">       Cantidad de videos: 1<br>       Nomenclatura: upc-pre-202402-si730-sw51-pesoftware-about-the-product-sprint-3<br>       Formato: .mp4<br>       Duración: 9:21 min     </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">       Video relacionado acerca de las funcionalidades y descripciones del producto.     </td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">       Screenshot: <br>       <img src="img/img_aboutTheProduct.jpg" alt="ATT" height="220"/><br>       Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EeRmsA6AfMFEjd78WjqkV68BEWrXIpJVIfswG5Sp4lNchA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;e=kVAznC</td></tr>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">       Screenshot: <br>       <img src="img/img_aboutTheProduct.jpg" alt="ATT" height="220"/><br>       Link: <a href=https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EeRmsA6AfMFEjd78WjqkV68BEWrXIpJVIfswG5Sp4lNchA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;e=kVAznC>Video Nube
+      </a></td></tr>
 </tbody></table>
 
 # 6. Conclusiones
@@ -2786,19 +2787,19 @@ Con la finalización del Sprint #4 y la entrega exitosa del proyecto SmartFlow, 
     <td>About The Team</td>
     <td>
       <strong>Cantidad de videos</strong>: 1<br>
-      <strong>Nomenclatura</strong>: upc-pre-202402-si730-SW51-pesoftware-about-the-team-sprint-4<br>
+      <strong>Nomenclatura</strong>: upc-pre-202402-si730-sw51-pesoftware-about-the-team-sprint-4<br>
       <strong>Formato</strong>: .mp4<br>
-      <strong>Duración</strong>: min
+      <strong>Duración</strong>: 07:06 min
     </td>
     <td>
       Video relacionado acerca de los integrantes, sus funciones en el proyecto y conclusiones.
     </td>
     <td>
       Screenshot: <br>
-      <img src="./Img/ATT.png" alt="ATT" style="width: 200px;"><br>
-      Link: <a href="https://upcedupe-my.sharepoint.com/personal/u202221876_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202221876%5Fupc%5Fedu%5Fpe%2FDocuments%2FABOUT%20THE%20TEAM%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E69955698%2Daafc%2D4745%2Da1c2%2D6bb0b8868a0c">Video Nube
+      <img src="./img/aboutTheTeam.png" alt="ATT" style="width: 200px;"><br>
+      Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/ERVhIicx8hdFtBjgQZwzZasBItMzXV2CSatLV9Mv7eKEBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RvbMDj">Video Nube
       </a>
-      Link (YouTube): <a href="https://youtu.be/9YHGh0dZDtk">Video Youtube</a>
+      Link (YouTube): <a href="https://youtu.be/YnBrZM47K5A">Video Youtube</a>
     </td>
   </tr>
   </table>
@@ -2849,7 +2850,7 @@ Recuperado de: https://cdn.www.gob.pe/uploads/document/file/5277829/4742711-anua
 | **Deploy Web Application** | https://smart-flow-app-mj2wmmvv2-sebastians-projects-9fc39079.vercel.app/|
 | **Deploy Back-end** | https://app-241119182900.azurewebsites.net/swagger/index.html|
 | **About The Product** | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EeRmsA6AfMFEjd78WjqkV68BEWrXIpJVIfswG5Sp4lNchA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kVAznC |
-| **About The Team** | |
+| **About The Team** | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/ERVhIicx8hdFtBjgQZwzZasBItMzXV2CSatLV9Mv7eKEBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=3lVQCz|
 | **Video Exposición TB1** | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/ETieMcfZbv5FncVLgWw-XvIBIBc4Vzx-DZGmO_KETFp6Ag?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mV5xjK |
 | **Video Exposición TP1** | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EWCeLBysn21Dj19wV0eNZaYB0LmFEm7eEBmmRPCwxXcx6g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=3xvbE7 |
 | **Video Exposición TB2** | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EdoLPABWdfVHkBEGRvMn_LIBscgcARNbYA5-eVZJpUpErQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=y6BCeV |
